@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package MAMIFERO;
+package INTERFAZ;
 
 /**
  *
  * @author JOSHUA
  */
-public class ScTiburon {
+public interface iOviparo {
+    public abstract void ponehuevo();
     
 }
